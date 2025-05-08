@@ -1,16 +1,47 @@
-## Hi there 👋
+### Hi there 👋 This is Forminio ！✨ 
 
-<!--
-**Forminio/Forminio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/forminio)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lina-zhang-58440b101/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!  
+
+<img align="right" alt="img" src="https://github.com/Forminio/picx-images-hosting/raw/master/pic/202410/剑客.6ikamg4v4w.webp" width="50%" height="auto" />
+
+
+#### 🌱 Things I am currently working on 🌱 : 
+
+- Taking online courses about Data Science and Machine Learning 
+- [My website](http://120.79.92.59/) 🚀 *coming soon*
+
+
+#### ⚡ Things recent ones I'm interested in ⚡ : 
+
+- Chat GPT
+- Stable Diffusion
+- Image generation
+- Layout2image
+- pix2pix
+
+#### 🌻 I am studying 🌻
+
+- IELTS
+- French
+- German
+
+#### :computer: Programming languages and tools :computer: : 
+
+<p>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Forminio&show_icons=true&theme=radical" />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
+</p>
+
+<sub>Credits to:<br /> [Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/Forminio/picx-images-hosting/raw/master/pic/202410/大虹树.60u97w6um1.webp)</sub>
+
+If you want to know more, please refer to the my [website](http://120.79.92.59/).
