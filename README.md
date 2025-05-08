@@ -42,6 +42,5 @@ Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
 </p>
 
-<sub>Credits to:<br /> [Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/Forminio/picx-images-hosting/raw/master/pic/202410/大虹树.60u97w6um1.webp)</sub>
 
-If you want to know more, please refer to the my [website](http://120.79.92.59/).
+[![trophy](https://github-profile-trophy.vercel.app/?username=forminio&theme=onedark)](http://120.79.92.59/)
