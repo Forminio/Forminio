@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=这是来自forminio的GitHub;热爱编程，热爱技术!&font=Roboto&center=true&size=25&width=500&height=50&color=f78fb3,b06ab3,4568dc">
 </div>
 
-<h1 align="center">👋 嗨，我是 forminio</h1>
+<h1 align="center">👋 Hi, I'm forminio</h1>
 
 
 <div align="center">
@@ -40,13 +40,13 @@
 
 <br>
 
-## 🛠️ 常用的技术
+## 🛠️ Technologies
 
 <div align="center">
   <table>
     <tr>
       <td valign="top" width="33%">
-        <h3 align="center">后端开发</h3>
+        <h3 align="center">Backend Development</h3>
         <div align="center">
           <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
@@ -59,7 +59,7 @@
         </div>
       </td>
       <td valign="top" width="33%">
-        <h3 align="center">前端开发</h3>
+        <h3 align="center">Frontend Development</h3>
         <div align="center">
           <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
@@ -72,7 +72,7 @@
         </div>
       </td>
       <td valign="top" width="33%">
-        <h3 align="center">中间件</h3>
+        <h3 align="center">Middleware</h3>
         <div align="center">
           <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
@@ -83,7 +83,7 @@
     </tr>
     <tr>
       <td valign="top" colspan="3">
-        <h3 align="center">工具</h3>
+        <h3 align="center">Tools</h3>
         <div align="center">
           <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
@@ -104,7 +104,7 @@
 
 <br>
 
-## 📊 GitHub 统计
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=forminio&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient&locale=cn" align="center" />
@@ -113,7 +113,7 @@
 <br>
 
 
-## 📫 联系我
+## 📫 Contact Me
 
 <div align="center">
   <a href="mailto:3599017122@qq.com">
