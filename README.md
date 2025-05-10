@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=WelcomeToMyGitHub;热爱编程，热爱技术!&font=Roboto&center=true&size=25&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=这是来自forminio的GitHub;热爱编程，热爱技术!&font=Roboto&center=true&size=25&width=500&height=50">
 </div>
 
 <h1 align="center">👋 嗨，我是 forminio</h1>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/后端开发-SpringBoot-green" />
@@ -12,17 +13,29 @@
   <img src="https://img.shields.io/badge/缓存-Redis-red" />
   <img src="https://img.shields.io/badge/消息队列-RabbitMQ-brightgreen" />
   <img src="https://img.shields.io/badge/日志分析-ELK-blueviolet" />
+  <br/>
+  <img src="https://img.shields.io/badge/前端-HTML-green" />
+  <img src="https://img.shields.io/badge/前端-CSS-purple" />
+  <img src="https://img.shields.io/badge/前端-JS-yellow" />
+  <img src="https://img.shields.io/badge/python-Flask-yellow" />
 </div>
+
 
 <br>
 
 ## 🚀 关于我
+<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forminio&layout=compact&locale=cn" width="30%" height="30%"/>
+
+
 
 - 🌱 我正在学习各种后端组件与系统稳定
 - 👯 我希望能在 **后端开发** 领域进行合作
 - 💬 欢迎向我咨询有关 **Java, Spring Boot, 微服务** 等技术问题
 - 📫 联系我: 3599017122@qq.com
 - 😄 个人特点: 热爱学习，善于解决问题，团队协作能力强
+
+
+
 
 <br>
 
@@ -67,7 +80,7 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=forminio&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=forminio&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient&locale=cn" align="center" />
 </div>
 
 <br>
