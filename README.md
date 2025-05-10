@@ -14,10 +14,11 @@
   <img src="https://img.shields.io/badge/消息队列-RabbitMQ-brightgreen" />
   <img src="https://img.shields.io/badge/日志分析-ELK-blueviolet" />
   <br/>
-  <img src="https://img.shields.io/badge/前端-HTML-green" />
-  <img src="https://img.shields.io/badge/前端-CSS-purple" />
-  <img src="https://img.shields.io/badge/前端-JS-yellow" />
-  <img src="https://img.shields.io/badge/python-Flask-yellow" />
+  <img src="https://img.shields.io/badge/后端-java-cream" />
+  <img src="https://img.shields.io/badge/前端-HTML-gold" />
+  <img src="https://img.shields.io/badge/前端-CSS-brown" />
+  <img src="https://img.shields.io/badge/前端-JS-salmon" />
+  <img src="https://img.shields.io/badge/python-Flask-tan" />
 </div>
 
 
