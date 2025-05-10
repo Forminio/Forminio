@@ -24,7 +24,7 @@
 
 <br>
 
-## 🚀 关于我
+## 🚀 About Me
 <img align="right" alt="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forminio&layout=compact&locale=cn" width="30%" height="30%"/>
 
 
@@ -40,7 +40,7 @@
 
 <br>
 
-## 🛠️ 技术栈
+## 🛠️ 常用的技术
 
 <div align="center">
   <table>
