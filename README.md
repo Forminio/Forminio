@@ -67,7 +67,7 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=forminio&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=forminio&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient" align="center" />
 </div>
 
 <br>
