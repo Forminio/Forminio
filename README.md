@@ -5,6 +5,7 @@
 <h1 align="center">👋 Hi, I'm forminio</h1>
 
 
+
 <div align="center">
   <img src="https://img.shields.io/badge/后端开发-SpringBoot-green" />
   <img src="https://img.shields.io/badge/前端-Vue-blue" />
@@ -25,7 +26,7 @@
 <br>
 
 ## 🚀 About Me
-<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forminio&layout=compact&locale=cn" width="30%" height="30%"/>
+<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forminio&layout=compact&locale=cn&theme=ambient_gradient" width="40%" height="30%"/>
 
 - 🧠 `while(alive) { learnNewTech(); solveProblems(); }`
 - 💻 正在深入研究分布式系统和高可用架构 `System.out.println("Hello Microservices!")`
@@ -36,7 +37,10 @@
 - 💬 欢迎加入讨论: `SELECT * FROM knowledge WHERE topic IN ('Java', 'Spring Boot', '微服务', 'Vue', 'Docker')`
 - 📫 联系方式: `const email = "3599017122@qq.com"`
 - 🌟 个人特点: `function traits() { return ['热爱学习', '解决问题能手', '团队协作达人', '代码洁癖'] }`
-
+- 🔎 主页访问量：<img src="https://profile-counter.glitch.me/forminio/count.svg"  />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=forminio&theme=onedark" align="center" />
+</div>
 
 
 
@@ -112,6 +116,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=forminio&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient&locale=cn" align="center" />
 </div>
 
+
 <br>
 
 
@@ -133,12 +138,6 @@
 <br>
 
 <div align="center">
-  <!-- 访问计数器 - 终端风格 -->
-  <div style="background-color: #0d1117; border-radius: 6px; padding: 15px; width: 80%; margin: 0 auto; border: 1px solid #30363d; box-shadow: 0 0 10px rgba(0,255,255,0.3);">
-    <img src="https://profile-counter.glitch.me/forminio/count.svg" style="margin-top: 10px;" />
-    <p style="font-family: 'Courier New', monospace; color: #e6edf3; margin: 0;">感谢访问我的GitHub档案！</p>
-  </div>
-  
   <!-- 矩阵数字雨效果 -->
   <div style="margin-top: 20px;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Code%20Never%20Ends&fontSize=24&fontAlignY=80" width="100%" />
