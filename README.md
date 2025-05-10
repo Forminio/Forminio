@@ -15,9 +15,9 @@
   <img src="https://img.shields.io/badge/日志分析-ELK-blueviolet" />
   <br/>
   <img src="https://img.shields.io/badge/后端-java-cream" />
-  <img src="https://img.shields.io/badge/前端-HTML-gold" />
-  <img src="https://img.shields.io/badge/前端-CSS-brown" />
-  <img src="https://img.shields.io/badge/前端-JS-salmon" />
+  <img src="https://img.shields.io/badge/前端-HTML-red" />
+  <img src="https://img.shields.io/badge/前端-CSS-blue" />
+  <img src="https://img.shields.io/badge/前端-JS-yellow" />
   <img src="https://img.shields.io/badge/python-Flask-tan" />
 </div>
 
@@ -51,6 +51,11 @@
           <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" alt="JWT" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="Lua" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="Flask" height="50" />
         </div>
       </td>
       <td valign="top" width="33%">
@@ -60,16 +65,37 @@
           <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" alt="Jinja" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/elementio/elementio-icon.svg" alt="Element" height="50" />
+          <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" height="50" />
         </div>
       </td>
       <td valign="top" width="33%">
-        <h3 align="center">中间件 & 工具</h3>
+        <h3 align="center">中间件</h3>
         <div align="center">
           <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elasticsearch" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" colspan="3">
+        <h3 align="center">工具</h3>
+        <div align="center">
+          <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="50" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/traeai/traeai-icon.svg" alt="Trae" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="Hexo" height="50" />
+          <img src="https://www.halo.run/upload/2021/03/Adaptive256-463ca9b92e2d40268431018c07735842.png" alt="Halo" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="Minio" height="50" />
+        </div>
         </div>
       </td>
     </tr>
