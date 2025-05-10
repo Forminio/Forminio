@@ -129,14 +129,27 @@
   </a>
 </div>
 
+
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/forminio/count.svg" />
-  <p>感谢您访问我的个人资料！</p>
-</div>
-
-<!-- 自定义 HTML 部分 -->
-<div align="center">
+  <!-- 访问计数器 - 终端风格 -->
+  <div style="background-color: #0d1117; border-radius: 6px; padding: 15px; width: 80%; margin: 0 auto; border: 1px solid #30363d; box-shadow: 0 0 10px rgba(0,255,255,0.3);">
+    <img src="https://profile-counter.glitch.me/forminio/count.svg" style="margin-top: 10px;" />
+    <p style="font-family: 'Courier New', monospace; color: #e6edf3; margin: 0;">感谢访问我的GitHub档案！</p>
+  </div>
+  
+  <!-- 矩阵数字雨效果 -->
+  <div style="margin-top: 20px;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Code%20Never%20Ends&fontSize=24&fontAlignY=80" width="100%" />
+  </div>
+  
+  <!-- 代码注释风格的页脚 -->
+  <div style="background-color: #0d1117; border-radius: 6px; padding: 10px; width: 80%; margin: 20px auto; border: 1px solid #30363d;">
+    <p style="font-family: 'Courier New', monospace; color: #8b949e; text-align: left; margin: 0;">
+    </p>
+  </div>
+  <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</div>
 </div>
