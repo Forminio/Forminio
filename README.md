@@ -27,13 +27,15 @@
 ## 🚀 About Me
 <img align="right" alt="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forminio&layout=compact&locale=cn" width="30%" height="30%"/>
 
-
-
-- 🌱 我正在学习各种后端组件与系统稳定
-- 👯 我希望能在 **后端开发** 领域进行合作
-- 💬 欢迎向我咨询有关 **Java, Spring Boot, 微服务** 等技术问题
-- 📫 联系我: 3599017122@qq.com
-- 😄 个人特点: 热爱学习，善于解决问题，团队协作能力强
+- 🧠 `while(alive) { learnNewTech(); solveProblems(); }`
+- 💻 正在深入研究分布式系统和高可用架构 `System.out.println("Hello Microservices!")`
+- 🔍 热衷于 `try { 后端开发 } catch(Exception e) { 解决它! } finally { 持续学习 }`
+- 🛠️ 技术栈: `const stack = ['Java', 'Spring Boot', 'Vue', 'Redis', 'MySQL', 'RabbitMQ', 'Docker', 'Nginx']`
+- 🔄 CI/CD爱好者: `git commit -m "持续集成，持续部署，持续改进"`
+- 🐧 Linux命令行忠实粉丝: `chmod +x ./life.sh && ./life.sh`
+- 💬 欢迎加入讨论: `SELECT * FROM knowledge WHERE topic IN ('Java', 'Spring Boot', '微服务', 'Vue', 'Docker')`
+- 📫 联系方式: `const email = "3599017122@qq.com"`
+- 🌟 个人特点: `function traits() { return ['热爱学习', '解决问题能手', '团队协作达人', '代码洁癖'] }`
 
 
 
