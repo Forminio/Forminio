@@ -1,46 +1,101 @@
-### Hi there 👋 This is Forminio ！✨ 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=WelcomeToMyGitHub;热爱编程，热爱技术!&font=Roboto&center=true&size=25&width=500&height=50">
+</div>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/forminio)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lina-zhang-58440b101/)
+<h1 align="center">👋 嗨，我是 forminio</h1>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/后端开发-SpringBoot-green" />
+  <img src="https://img.shields.io/badge/前端-Vue-blue" />
+  <img src="https://img.shields.io/badge/爬虫-Python-yellow" />
+  <img src="https://img.shields.io/badge/数据库-MySQL-orange" />
+  <img src="https://img.shields.io/badge/缓存-Redis-red" />
+  <img src="https://img.shields.io/badge/消息队列-RabbitMQ-brightgreen" />
+  <img src="https://img.shields.io/badge/日志分析-ELK-blueviolet" />
+</div>
+
+<br>
+
+## 🚀 关于我
+
+- 🔭 我目前正在开发 **求职学园平台**
+- 🌱 我正在学习 **分布式系统** 和 **微服务架构**
+- 👯 我希望能在 **后端开发** 领域进行合作
+- 💬 欢迎向我咨询有关 **Java, Spring Boot, 微服务** 等技术问题
+- 📫 联系我: [你的邮箱]
+- 😄 个人特点: 热爱学习，善于解决问题，团队协作能力强
+
+<br>
+
+## 🛠️ 技术栈
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">后端开发</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">前端开发</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">中间件 & 工具</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elasticsearch" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 📊 GitHub 统计
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=forminio&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+</div>
+
+<br>
 
 
+## 📫 联系我
 
-Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!  
+<div align="center">
+  <a href="mailto:3599017122@qq.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="http://120.79.92.59/">
+    <img src="https://img.shields.io/badge/博客-forminio-blue?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+  <a href="https://github.com/forminio">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-<img align="right" alt="img" src="https://github.com/Forminio/picx-images-hosting/raw/master/pic/202410/剑客.6ikamg4v4w.webp" width="50%" height="auto" />
+<br>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/forminio/count.svg" />
+  <p>感谢您访问我的个人资料！</p>
+</div>
 
-#### 🌱 Things I am currently working on 🌱 : 
-
-- Taking online courses about Data Science and Machine Learning 
-- [My website](http://120.79.92.59/) 🚀 *coming soon*
-
-
-#### ⚡ Things recent ones I'm interested in ⚡ : 
-
-- Chat GPT
-- Stable Diffusion
-- Image generation
-- Layout2image
-- pix2pix
-
-#### 🌻 I am studying 🌻
-
-- IELTS
-- French
-- German
-
-#### :computer: Programming languages and tools :computer: : 
-
-<p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Forminio&show_icons=true&theme=radical" />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
-</p>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=forminio&theme=onedark)](http://120.79.92.59/)
+<!-- 自定义 HTML 部分 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</div>
