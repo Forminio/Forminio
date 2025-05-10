@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=这是来自forminio的GitHub;热爱编程，热爱技术!&font=Roboto&center=true&size=25&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=这是来自forminio的GitHub;热爱编程，热爱技术!&font=Roboto&center=true&size=25&width=500&height=50&color=f78fb3,b06ab3,4568dc">
 </div>
 
 <h1 align="center">👋 嗨，我是 forminio</h1>
