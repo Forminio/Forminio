@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=这是来自forminio的GitHub;热爱编程，热爱技术!&font=Roboto&center=true&size=25&width=500&height=50&color=f78fb3,b06ab3,4568dc">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20page!;热爱编程，热爱技术!&font=Roboto&center=true&size=25&width=500&height=50&color=f78fb3,b06ab3,4568dc">
 </div>
 
-<h1 align="center">👋 Hi, I'm forminio</h1>
+<h1 align="center">👋Hey!Nice To See You </h1>
+
+<p align="center" style="font-size:1.2em;">
+   <em>Welcome to my page! I’m forminio, from🇨🇳China,and I love exploring interesting things</em>
+</p>
 
 
 
