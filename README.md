@@ -5,7 +5,7 @@
 <h1 align="center">👋Hey!Nice To See You </h1>
 
 <p align="center" style="font-size:1.2em;">
-   <em>Welcome to my page! I’m forminio, from🇨🇳China,and I love exploring interesting things</em>
+   <em>Welcome to my page! I’m forminio, from 🇨🇳China,and I love exploring interesting things</em>
 </p>
 
 
@@ -30,7 +30,6 @@
 <br>
 
 ## 🚀 About Me
-<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forminio&layout=compact&locale=cn&theme=ambient_gradient" width="40%" height="30%"/>
 
 - 🧠 `while(alive) { learnNewTech(); solveProblems(); }`
 - 💻 正在深入研究分布式系统和高可用架构 `System.out.println("Hello Microservices!")`
@@ -116,13 +115,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=forminio&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient&locale=cn" align="center" />
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=forminio&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient&locale=cn" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forminio&layout=compact&locale=cn&theme=ambient_gradient" width="44%" />
 </div>
-
-
 <br>
-
 
 ## 📫 Contact Me
 
