@@ -127,7 +127,7 @@
   <a href="mailto:3599017122@qq.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="http://120.79.92.59/">
+  <a href="https://forminio.cn/">
     <img src="https://img.shields.io/badge/博客-forminio-blue?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
   <a href="https://github.com/forminio">
