@@ -37,8 +37,6 @@
 - 💻 正在深入研究分布式系统和高可用架构 `System.out.println("Hello Microservices!")`
 - 🔍 热衷于 `try { 后端开发 } catch(Exception e) { 解决它! } finally { 持续学习 }`
 - 🔄 CI/CD爱好者: `git commit -m "持续集成，持续部署，持续改进"`
-- 🐧 Linux命令行忠实粉丝: `chmod +x ./life.sh && ./life.sh`
-- 🌟 个人特点: `function traits() { return ['热爱学习', '解决问题能手', '团队协作达人', '代码洁癖'] }`
 - 🌐 个人博客: [`console.log("Hey there, welcome to my digital corner! 😊✨")`](https://forminio.cn/)
 - 🔎 主页访问量：<img src="https://profile-counter.glitch.me/forminio/count.svg"  />
 <div align="center">
