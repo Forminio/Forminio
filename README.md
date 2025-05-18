@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20page!;热爱编程，热爱技术!&font=Roboto&center=true&size=25&width=500&height=50&color=pink">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20page🎉!;Love%20coding,%20love%20technology😊.&font=Roboto&center=true&size=25&width=500&height=50&color=pink">
 </div>
 
 <h1 align="center">👋Hey!Nice To See You </h1>
 
 <p align="center" style="font-size:1.2em;">
-   <em>Welcome to my page! I’m forminio, from 🇨🇳China,and I love exploring interesting things</em>
+   <em>Welcome to my page! I’m forminio, from 🇨🇳,and I love exploring interesting things</em>
 </p>
+
 
 
 
@@ -29,7 +30,8 @@
 
 <br>
 
-## 🚀 About Me
+## 🚀 [About Me 👨‍💻](https://forminio.cn/) <sup>🔗</sup>
+
 
 - 🧠 `while(alive) { learnNewTech(); solveProblems(); }`
 - 💻 正在深入研究分布式系统和高可用架构 `System.out.println("Hello Microservices!")`
@@ -40,6 +42,7 @@
 - 💬 欢迎加入讨论: `SELECT * FROM knowledge WHERE topic IN ('Java', 'Spring Boot', '微服务', 'Vue', 'Docker')`
 - 📫 联系方式: `const email = "3599017122@qq.com"`
 - 🌟 个人特点: `function traits() { return ['热爱学习', '解决问题能手', '团队协作达人', '代码洁癖'] }`
+- 🌐 个人博客: `console.log("Hey there, welcome to my digital corner! 😊✨：https://forminio.cn/")`
 - 🔎 主页访问量：<img src="https://profile-counter.glitch.me/forminio/count.svg"  />
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=forminio&theme=onedark" align="center" />
