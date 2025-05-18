@@ -43,8 +43,8 @@
 
 ## 🛠️ Technologies
 
-<div align="center">
-  <table>
+<div align="center" style="width:100%; overflow-x:auto;">
+  <table style="width:100%; table-layout:fixed;">
     <tr>
       <td valign="top" width="33%">
         <h3 align="center">Backend Development</h3>
@@ -52,6 +52,7 @@
           <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+          <br>
           <img src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" alt="JWT" height="50" />
           <img src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="Lua" height="50" />
           <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="Flask" height="50" />
@@ -75,6 +76,7 @@
           <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elasticsearch" height="50" />
+          <br>
           <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />
