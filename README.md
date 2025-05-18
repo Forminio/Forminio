@@ -42,7 +42,7 @@
 - 💬 欢迎加入讨论: `SELECT * FROM knowledge WHERE topic IN ('Java', 'Spring Boot', '微服务', 'Vue', 'Docker')`
 - 📫 联系方式: `const email = "3599017122@qq.com"`
 - 🌟 个人特点: `function traits() { return ['热爱学习', '解决问题能手', '团队协作达人', '代码洁癖'] }`
-- 🌐 个人博客: `console.log("Hey there, welcome to my digital corner! 😊✨：https://forminio.cn/")`
+- 🌐 个人博客: [`console.log("Hey there, welcome to my digital corner! 😊✨")`](https://forminio.cn/)
 - 🔎 主页访问量：<img src="https://profile-counter.glitch.me/forminio/count.svg"  />
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=forminio&theme=onedark" align="center" />
