@@ -116,7 +116,7 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=forminio&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient&locale=cn" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=forminio&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient&locale=cn" width="41%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forminio&layout=compact&locale=cn&theme=ambient_gradient" width="44%" />
 </div>
 <br>
