@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20page🎉!;Love%20coding,%20love%20technology😊.&font=Roboto&center=true&size=25&width=500&height=50&color=pink">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20page🎉!;coding%20and%20technology😊.&font=Roboto&center=true&size=25&width=500&height=50&color=pink">
 </div>
 
 <h1 align="center">👋Hey!Nice To See You </h1>
