@@ -37,6 +37,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=forminio&theme=onedark" align="center" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 <br>
@@ -118,6 +121,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/github-contribution-grid-snake.svg" alt="GitHub贡献图贪吃蛇动画" width="100%" />
 </div>
+
+
+
 
 <br>
 
