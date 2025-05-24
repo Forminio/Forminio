@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20page🎉!;coding%20and%20technology😊.&font=Roboto&center=true&size=25&width=500&height=50&color=pink">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20page🎉!;coding%20and%20technology😊&font=Roboto&center=true&size=25&width=500&height=50&color=pink">
 </div>
 
 <h1 align="center">👋Hey!Nice To See You </h1>
@@ -115,6 +115,9 @@
 </div>
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/github-contribution-grid-snake.svg" alt="GitHub贡献图贪吃蛇动画" width="100%" />
+</div>
 
 <br>
 
