@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20digital%20realm🎉!;Passionate%20about%20code%20and%20tech😊&font=Roboto&center=true&size=25&width=500&height=50&color=pink">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20page🎉!;coding%20and%20technology😊&font=Roboto&center=true&size=25&width=500&height=50&color=pink">
 </div>
 
-<h1 align="center">👋 Hello, World! </h1>
+<h1 align="center">👋Hey!Nice To See You </h1>
 
 <p align="center" style="font-size:1.2em;">
-   <em>I'm forminio, a developer from 🇨🇳 who thrives on exploring the binary universe</em>
+   <em>Welcome to my page! I’m forminio, from 🇨🇳,and I love exploring interesting things</em>
 </p>
 
 
