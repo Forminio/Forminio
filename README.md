@@ -1,24 +1,24 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20page🎉!;coding%20and%20technology😊&font=Roboto&center=true&size=25&width=500&height=50&color=pink">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20digital%20realm🎉!;Passionate%20about%20code%20and%20tech😊&font=Roboto&center=true&size=25&width=500&height=50&color=pink">
 </div>
 
-<h1 align="center">👋Hey!Nice To See You </h1>
+<h1 align="center">👋 Hello, World! </h1>
 
 <p align="center" style="font-size:1.2em;">
-   <em>Welcome to my page! I’m forminio, from 🇨🇳,and I love exploring interesting things</em>
+   <em>I'm forminio, a developer from 🇨🇳 who thrives on exploring the binary universe</em>
 </p>
 
 
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/后端开发-SpringBoot-green" />
-  <img src="https://img.shields.io/badge/前端-Vue-blue" />
-  <img src="https://img.shields.io/badge/爬虫-Python-yellow" />
-  <img src="https://img.shields.io/badge/数据库-MySQL-orange" />
-  <img src="https://img.shields.io/badge/缓存-Redis-red" />
-  <img src="https://img.shields.io/badge/消息队列-RabbitMQ-brightgreen" />
-  <img src="https://img.shields.io/badge/日志分析-ELK-blueviolet" />
+  <img src="https://img.shields.io/badge/Backend-SpringBoot-green" />
+  <img src="https://img.shields.io/badge/Frontend-Vue-blue" />
+  <img src="https://img.shields.io/badge/Scraping-Python-yellow" />
+  <img src="https://img.shields.io/badge/Database-MySQL-orange" />
+  <img src="https://img.shields.io/badge/Cache-Redis-red" />
+  <img src="https://img.shields.io/badge/MQ-RabbitMQ-brightgreen" />
+  <img src="https://img.shields.io/badge/Logging-ELK-blueviolet" />
 </div>
 
 
@@ -28,11 +28,18 @@
 
 
 - 🧠 `while(alive) { learnNewTech(); solveProblems(); }`
-- 💻 正在深入研究分布式系统和高可用架构 `System.out.println("Hello Microservices!")`
-- 🔍 热衷于 `try { 后端开发 } catch(Exception e) { 解决它! } finally { 持续学习 }`
-- 🔄 CI/CD爱好者: `git commit -m "持续集成，持续部署，持续改进"`
-- 🌐 个人博客: [`console.log("Hey there, welcome to my digital corner! 😊✨")`](https://forminio.cn/)
-- 🔎 主页访问量：<img src="https://profile-counter.glitch.me/forminio/count.svg"  />
+- 💻 `const currentFocus = 'Distributed Systems & High Availability';`
+- 🔍 ```java
+try {
+  backendDevelopment();
+} catch(Exception e) {
+  fixIt();
+} finally {
+  continuousLearning();
+}```
+- 🔄 `git commit -m "feat: CI/CD pipeline automation & continuous deployment"`
+- 🌐 Personal Blog: [`console.log("Welcome to my digital playground! 😊✨")`](https://forminio.cn/)
+- 🔎 Profile Views: <img src="https://profile-counter.glitch.me/forminio/count.svg"  />
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=forminio&theme=onedark" align="center" />
 </div>
