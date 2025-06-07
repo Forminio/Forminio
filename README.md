@@ -41,7 +41,7 @@ try {
 - 🌐 Personal Blog: [`console.log("Welcome to my digital playground! 😊✨")`](https://forminio.cn/)
 - 🔎 Profile Views: <img src="https://profile-counter.glitch.me/forminio/count.svg"  />
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=forminio&theme=onedark" align="center" />
+  <img src="https://github-profile-trophy.vercel.app/?username=forminio&theme=onedark&location=cn" align="center" />
 </div>
 
 <!--START_SECTION:waka-->
