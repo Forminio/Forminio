@@ -12,6 +12,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
       - name: generate github-contribution-grid-snake.svg
@@ -21,10 +23,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            # 数码绿主题：背景暗黑，未提交为深灰绿，提交为梯度数码绿
-            dist/hacker-snake.svg?color_snake=#00ff00&color_dots=#0d1f0d,#004d00,#008800,#00cc00,#00ff00&color_background=#0d1117
+            # 使用你定制的极客绿配色
+            dist/hacker-snake.svg?color_snake=#033503&color_dots=#3f413f,#003300,#004c00,#006600,#007f00&color_background=#0d1117
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
