@@ -2,8 +2,8 @@ name: Generate Custom Icon Marquee
 
 on:
   schedule:
-    - cron: "0 0 * * 0"
-  workflow_dispatch:
+    - cron: "0 0 * * 0" # 每周日自动运行
+  workflow_dispatch: # 允许你手动触发
   push:
     branches:
       - main
@@ -32,12 +32,13 @@ jobs:
           cat << 'EOF' > generate.py
           from godprofile_mcp.core import icon_marquee
 
+          # 在这里配置你想要滚动的技术栈名字
           icons = ["Java", "Spring", "Python", "Vue", "Docker", "MySQL", "Redis", "RabbitMQ", "Git", "Linux"]
 
-          # 正确的调用方式：build_marquee
+          # 使用官方快速启动中确认的正确函数名 build_marquee
           svg_content = icon_marquee.build_marquee(
               icons=icons,
-              theme="terminal-hacker"
+              theme="terminal-hacker" # 黑底绿字的终端主题
           )
 
           with open("custom-marquee.svg", "w", encoding="utf-8") as f:
