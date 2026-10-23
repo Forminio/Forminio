@@ -60,8 +60,8 @@
 ## 🐍 The Commit-eating Snake
 
 <div align="center">
-  <!-- 注意这里换成了 hacker-snake.gif，并且加了 ?v=103 -->
-  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.gif?v=103" alt="Hacker Snake" width="100%" />
+  <!-- 注意这里的 v=104，使用新的深空灰底图 -->
+  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.gif?v=104" alt="Hacker Snake" width="100%" />
 </div>
 
 <br>
