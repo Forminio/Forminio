@@ -60,8 +60,8 @@
 ## 🐍 The Commit-eating Snake
 
 <div align="center">
-  <!-- 这里改成了 v=5，强制刷新读取新的深灰底板 -->
-  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg?v=5" alt="Hacker Snake" width="100%" />
+  <!-- 注意这里的 v=999，全新的版本号，强制破缓存 -->
+  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg?v=999" alt="Hacker Snake" width="100%" />
 </div>
 
 <br>
