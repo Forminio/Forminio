@@ -23,8 +23,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            # 使用你定制的极客绿配色
-            dist/hacker-snake.svg?color_snake=#033503&color_dots=#3f413f,#003300,#004c00,#006600,#007f00&color_background=#0d1117
+            # 极限压暗的暗黑翡翠绿，蛇也改成暗绿，降低发光感
+            dist/hacker-snake.svg?color_snake=#0a2a0a&color_dots=#161b22,#0e2b0e,#134613,#175e17,#1e7a1e&color_background=#0d1117
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
