@@ -20,7 +20,6 @@
 
 <br>
 
-<!-- 修改了标题：用终端代码风格的标语替代死板的 About Me -->
 ## 💻 `sudo apt-get install my-skills` <sup>🔗</sup>
 
 - 🧠 `while(alive) { learnNewTech(); solveProblems(); }`
@@ -32,29 +31,23 @@
 
 <br>
 
-<!-- 修改了标题：强调这是个人的武器库和数据面板 -->
-## 🚀 My Tech Arsenal & Metrics
+## 🚀 Tech Arsenal & Metrics
 
-<!-- 通过嵌套 align="center" 和精确的宽度控制，确保所有元素绝对居中 -->
 <div align="center" style="width: 100%; max-width: 900px; margin: 0 auto; padding: 25px 15px; background-color: rgba(255, 255, 255, 0.02); border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.08);">
   
-  <!-- 上半部分：技术栈图标完美居中 -->
   <div style="margin-bottom: 20px;">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,spring,python,flask,lua,vue,js,html,css,jinja,element,antdesign,mysql,redis,elasticsearch,docker,linux,rabbitmq,nginx,git,maven,postman,idea,vscode,pycharm,hexo,minio&perline=10" />
     </a>
   </div>
   
-  <!-- 下半部分：数据卡片均分居中 -->
   <table style="border: none; width: 100%; table-layout: fixed; margin: 0 auto;">
     <tr>
-      <!-- 左侧卡片 -->
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
-        <img src="https://github-readme-stats.shion.dev/api?username=forminio&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient&bg_color=00000000" height="195" style="max-width: 100%; border-radius: 8px;" />
+        <img src="https://github-readme-stats.shion.dev/api?username=forminio&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
-      <!-- 右侧卡片 -->
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=forminio&layout=compact&theme=ambient_gradient&card_width=350&bg_color=00000000" height="195" style="max-width: 100%; border-radius: 8px;" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=forminio&layout=compact&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&card_width=350" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
     </tr>
   </table>
@@ -64,7 +57,6 @@
 <br>
 <br>
 
-<!-- 新增了贪吃蛇的专属有趣标题 -->
 ## 🐍 The Commit-eating Snake
 
 <div align="center">
