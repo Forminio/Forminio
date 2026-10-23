@@ -44,9 +44,11 @@
   <table style="border: none; width: 100%; table-layout: fixed; margin: 0 auto;">
     <tr>
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
+        <!-- 注意这里：text_color 已经改成了 39ff14 -->
         <img src="https://github-readme-stats.shion.dev/api?username=forminio&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
+        <!-- 注意这里：text_color 也已经改成了 39ff14 -->
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=forminio&layout=compact&bg_color=0d1117&title_color=39ff14&text_color=39ff14&card_width=350" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
     </tr>
@@ -67,7 +69,7 @@
 
 <div align="center">
   <div style="margin-top: 20px;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Code%20Never%20Ends&fontSize=24&fontAlignY=80" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&text=Code%20Never%20Ends&fontSize=24&fontAlignY=80" width="100%" />
   </div>
   <div style="background-color: #0d1117; border-radius: 6px; padding: 10px; width: 80%; margin: 20px auto; border: 1px solid #30363d;">
     <p style="font-family: 'Courier New', monospace; color: #8b949e; text-align: left; margin: 0;">
