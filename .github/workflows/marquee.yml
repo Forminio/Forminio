@@ -2,8 +2,8 @@ name: Generate Custom Icon Marquee
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # 每周日自动运行
-  workflow_dispatch: # 允许你手动触发
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -30,19 +30,33 @@ jobs:
       - name: Generate Custom Marquee SVG
         run: |
           cat << 'EOF' > generate.py
+          import traceback
           from godprofile_mcp.core import icon_marquee
 
-          # 在这里配置你想要滚动的技术栈名字
           icons = ["Java", "Spring", "Python", "Vue", "Docker", "MySQL", "Redis", "RabbitMQ", "Git", "Linux"]
 
-          # 使用官方快速启动中确认的正确函数名 build_marquee
-          svg_content = icon_marquee.build_marquee(
-              icons=icons,
-              theme="terminal-hacker" # 黑底绿字的终端主题
-          )
+          try:
+              # 先尝试官方 quickstart 里的写法
+              svg_content = icon_marquee.build_marquee(
+                  icons=icons,
+                  theme="terminal-hacker"
+              )
+          except AttributeError:
+              # 如果 build_marquee 不存在，打印模块里所有可用属性，方便排查
+              print("build_marquee not found. Available attributes in icon_marquee:")
+              for attr in dir(icon_marquee):
+                  if not attr.startswith("_"):
+                      print(f"  - {attr}")
+              traceback.print_exc()
+              raise SystemExit(1)
+          except Exception as e:
+              print(f"Error calling build_marquee: {e}")
+              traceback.print_exc()
+              raise SystemExit(1)
 
           with open("custom-marquee.svg", "w", encoding="utf-8") as f:
               f.write(svg_content)
+          print("custom-marquee.svg generated successfully.")
           EOF
           python generate.py
 
