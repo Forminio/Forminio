@@ -23,8 +23,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            # 未提交格子（第一个颜色）改为深空灰 #161b22，隐隐约约可见，绝不泛白
-            dist/hacker-snake.gif?color_snake=#39ff14&color_dots=#161b22,#004d00,#008000,#00b300,#39ff14&color_background=#0d1117
+            # 回归 SVG：未提交为深灰 #21262d，绝对能看见，且不泛白
+            dist/hacker-snake.svg?color_snake=#39ff14&color_dots=#21262d,#004d00,#008000,#00b300,#39ff14&color_background=#0d1117
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
