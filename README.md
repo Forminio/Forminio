@@ -61,7 +61,7 @@
 
 <div align="center">
   <!-- 黑客帝国风格：纯黑背景 + 霓虹绿蛇 -->
-  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/github-snake-hacker-diamonds.svg" alt="Hacker Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg" alt="Hacker Snake" width="100%" />
 </div>
 
 <br>
