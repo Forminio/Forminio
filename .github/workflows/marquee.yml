@@ -1,0 +1,60 @@
+name: Generate Custom Icon Marquee
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # 每周日自动运行一次
+  workflow_dispatch: # 允许你手动点击运行
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install GodProfile
+        run: |
+          pip install godprofile-mcp
+
+      - name: Generate Custom Marquee SVG
+        run: |
+          # 编写一个简单的 Python 脚本，调用 GodProfile 生成你的专属跑马灯
+          cat << 'EOF' > generate.py
+          from godprofile_mcp.core import icon_marquee
+          
+          # 在这里配置你自己的技术栈名字（或者你想滚动的词）
+          # 它支持很多图标名，比如 Python, Java, Vue, Docker 等等
+          icons = ["Java", "Spring", "Python", "Vue", "Docker", "MySQL", "Redis", "RabbitMQ", "Git", "Linux"]
+          
+          # 使用官方提供的黑客/终端主题
+          # 如果没有直接暴露出 theme 参数，可以直接调用底层生成函数
+          try:
+              svg_content = icon_marquee.generate_marquee(icons=icons, theme="terminal-hacker")
+          except AttributeError:
+              # 兼容不同版本的 API
+              svg_content = icon_marquee.build_marquee(icons=icons)
+              
+          with open("custom-marquee.svg", "w", encoding="utf-8") as f:
+              f.write(svg_content)
+          EOF
+          python generate.py
+
+      - name: Commit and Push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add custom-marquee.svg
+          # 如果文件没有变化，不会报错退出
+          git commit -m "Auto-generate custom icon marquee" || exit 0
+          git push
