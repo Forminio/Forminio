@@ -14,8 +14,9 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # 注意这里：去掉了 /svg-only，使用完整版以支持生成 GIF
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
