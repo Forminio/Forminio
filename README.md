@@ -31,7 +31,7 @@
 
 <br>
 
-## 🚀 Tech Arsenal & Metrics
+## 🚀 My Tech Arsenal & Metrics
 
 <div align="center" style="width: 100%; max-width: 900px; margin: 0 auto; padding: 25px 15px; background-color: rgba(255, 255, 255, 0.02); border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.08);">
   
@@ -44,9 +44,11 @@
   <table style="border: none; width: 100%; table-layout: fixed; margin: 0 auto;">
     <tr>
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
+        <!-- 左侧黑绿卡片 -->
         <img src="https://github-readme-stats.shion.dev/api?username=forminio&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
+        <!-- 右侧黑绿卡片 -->
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=forminio&layout=compact&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&card_width=350" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
     </tr>
@@ -60,7 +62,8 @@
 ## 🐍 The Commit-eating Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/github-contribution-grid-snake.svg" alt="GitHub贡献图贪吃蛇动画" width="100%" />
+  <!-- 这里替换为了海洋风格的 GIF 动态图 -->
+  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/ocean.gif" alt="Ocean Snake" width="100%" />
 </div>
 
 <br>
