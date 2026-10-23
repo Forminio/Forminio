@@ -1,39 +1,39 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20page🎉!;coding%20and%20technology😊&font=Roboto&center=true&size=25&width=500&height=50&color=pink">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20page🎉!;coding%20and%20technology😊&font=Fira+Code&center=true&size=24&width=500&height=50&color=39ff14&vCenter=true">
 </div>
 
-<h1 align="center">👋Hey!Nice To See You </h1>
+<h1 align="center" style="color: #39ff14; font-family: 'Courier New', monospace;">👋 Hey! Nice To See You </h1>
 
-<p align="center" style="font-size:1.2em;">
-   <em>Welcome to my page! I’m forminio, from 🇨🇳,and I love exploring interesting things</em>
+<p align="center" style="font-size:1.2em; font-family: 'Courier New', monospace; color: #8b949e;">
+   <em>Welcome to my page! I’m <span style="color: #39ff14;">forminio</span>, from 🇨🇳, and I love exploring interesting things</em>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend-SpringBoot-green" />
-  <img src="https://img.shields.io/badge/Frontend-Vue-blue" />
-  <img src="https://img.shields.io/badge/Scraping-Python-yellow" />
-  <img src="https://img.shields.io/badge/Database-MySQL-orange" />
-  <img src="https://img.shields.io/badge/Cache-Redis-red" />
-  <img src="https://img.shields.io/badge/MQ-RabbitMQ-brightgreen" />
-  <img src="https://img.shields.io/badge/Logging-ELK-blueviolet" />
+  <img src="https://img.shields.io/badge/Backend-SpringBoot-0d1117?style=flat-square&logo=springboot&logoColor=39ff14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Frontend-Vue-0d1117?style=flat-square&logo=vuedotjs&logoColor=39ff14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Scraping-Python-0d1117?style=flat-square&logo=python&logoColor=39ff14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Database-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=39ff14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Cache-Redis-0d1117?style=flat-square&logo=redis&logoColor=39ff14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MQ-RabbitMQ-0d1117?style=flat-square&logo=rabbitmq&logoColor=39ff14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Logging-ELK-0d1117?style=flat-square&logo=elasticstack&logoColor=39ff14&labelColor=000000" />
 </div>
 
 <br>
 
-## 💻 `sudo apt-get install my-skills` <sup>🔗</sup>
+## 💻 `root@forminio:~#` <sup>🔗</sup>
 
 - 🧠 `while(alive) { learnNewTech(); solveProblems(); }`
 - 💻 `const currentFocus = 'Distributed Systems & High Availability';`
 - 🔍 `try { backendDevelopment(); } catch(Exception e) { fixIt(); } finally { continuousLearning(); }`
 - 🔄 `git commit -m "feat: CI/CD pipeline automation & continuous deployment"`
 - 🌐 Personal Blog: [`console.log("Welcome to my digital playground! 😊✨")`](https://forminio.cn/)
-- 🔎 Profile Views: <img src="https://komarev.com/ghpvc/?username=forminio&color=blue" />
+- 🔎 Profile Views: <img src="https://komarev.com/ghpvc/?username=forminio&color=39ff14&labelColor=0d1117" />
 
 <br>
 
 ## 🚀 My Tech Arsenal & Metrics
 
-<div align="center" style="width: 100%; max-width: 900px; margin: 0 auto; padding: 25px 15px; background-color: rgba(255, 255, 255, 0.02); border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.08);">
+<div align="center" style="width: 100%; max-width: 900px; margin: 0 auto; padding: 25px 15px; background-color: rgba(255, 255, 255, 0.02); border-radius: 16px; border: 1px solid rgba(57, 255, 20, 0.15);">
   
   <div style="margin-bottom: 20px;">
     <a href="https://skillicons.dev">
@@ -44,10 +44,10 @@
   <table style="border: none; width: 100%; table-layout: fixed; margin: 0 auto;">
     <tr>
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
-        <img src="https://github-readme-stats.shion.dev/api?username=forminio&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&icon_color=39ff14" height="195" style="max-width: 100%; border-radius: 8px;" />
+        <img src="https://github-readme-stats.shion.dev/api?username=forminio&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=forminio&layout=compact&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&card_width=350" height="195" style="max-width: 100%; border-radius: 8px;" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=forminio&layout=compact&bg_color=0d1117&title_color=39ff14&text_color=39ff14&card_width=350" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
     </tr>
   </table>
@@ -60,7 +60,6 @@
 ## 🐍 The Commit-eating Snake
 
 <div align="center">
-  <!-- 注意后缀变回 .svg，版本号 v=105 -->
   <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg?v=105" alt="Hacker Snake" width="100%" />
 </div>
 
