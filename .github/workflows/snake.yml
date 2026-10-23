@@ -23,8 +23,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            # 终极原生版：生成 GIF，未提交格子（第一个颜色）与背景同色，完全隐形
-            dist/hacker-snake.gif?color_snake=#39ff14&color_dots=#0d1117,#004d00,#008000,#00b300,#39ff14&color_background=#0d1117
+            # 未提交格子（第一个颜色）改为深空灰 #161b22，隐隐约约可见，绝不泛白
+            dist/hacker-snake.gif?color_snake=#39ff14&color_dots=#161b22,#004d00,#008000,#00b300,#39ff14&color_background=#0d1117
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
