@@ -23,8 +23,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            # 完美修正版：第一个颜色 #24292f 是图标底板的深空灰，后面是数码绿
-            dist/hacker-snake.svg?color_snake=#007f00&color_dots=#24292f,#003300,#004c00,#006600,#007f00&color_background=#0d1117
+            # 极客深灰版：未提交为纯正深灰 #30363d，蛇压暗为 #004c00
+            dist/hacker-snake.svg?color_snake=#004c00&color_dots=#30363d,#003300,#004c00,#006600,#007f00&color_background=#0d1117
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
