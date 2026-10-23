@@ -44,10 +44,10 @@
   <table style="border: none; width: 100%; table-layout: fixed; margin: 0 auto;">
     <tr>
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
-        <img src="https://github-readme-stats.shion.dev/api?username=forminio&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950" height="195" style="max-width: 100%; border-radius: 8px;" />
+        <img src="https://github-readme-stats.shion.dev/api?username=forminio&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=forminio&layout=compact&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&card_width=350" height="195" style="max-width: 100%; border-radius: 8px;" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=forminio&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&card_width=350" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
     </tr>
   </table>
@@ -60,7 +60,7 @@
 ## 🐍 The Commit-eating Snake
 
 <div align="center">
-  <!-- 黑客帝国风格：纯黑背景 + 霓虹绿蛇 -->
+  <!-- 引用更新后的数码绿黑客蛇 -->
   <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg" alt="Hacker Snake" width="100%" />
 </div>
 
