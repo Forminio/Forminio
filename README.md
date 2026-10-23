@@ -44,10 +44,10 @@
   <table style="border: none; width: 100%; table-layout: fixed; margin: 0 auto;">
     <tr>
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
-        <img src="https://github-readme-stats.shion.dev/api?username=forminio&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=007f00&text_color=c9d1d9&icon_color=007f00" height="195" style="max-width: 100%; border-radius: 8px;" />
+        <img src="https://github-readme-stats.shion.dev/api?username=forminio&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1e7a1e&text_color=c9d1d9&icon_color=1e7a1e" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=forminio&layout=compact&bg_color=0d1117&title_color=007f00&text_color=c9d1d9&card_width=350" height="195" style="max-width: 100%; border-radius: 8px;" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=forminio&layout=compact&bg_color=0d1117&title_color=1e7a1e&text_color=c9d1d9&card_width=350" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
     </tr>
   </table>
@@ -60,8 +60,8 @@
 ## 🐍 The Commit-eating Snake
 
 <div align="center">
-  <!-- 注意看这里，加上了 ?v=3 强制刷新缓存，并且分支名确认是 output -->
-  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg?v=3" alt="Hacker Snake" width="100%" />
+  <!-- 注意这里的 v=4，专门用来击穿缓存 -->
+  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg?v=4" alt="Hacker Snake" width="100%" />
 </div>
 
 <br>
