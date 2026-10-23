@@ -60,8 +60,8 @@
 ## 🐍 The Commit-eating Snake
 
 <div align="center">
-  <!-- 引用定制极客绿蛇 -->
-  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg" alt="Hacker Snake" width="100%" />
+  <!-- 注意看这里，加上了 ?v=3 强制刷新缓存，并且分支名确认是 output -->
+  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg?v=3" alt="Hacker Snake" width="100%" />
 </div>
 
 <br>
