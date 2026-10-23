@@ -60,8 +60,8 @@
 ## 🐍 The Commit-eating Snake
 
 <div align="center">
-  <!-- 这里引用了生成的海洋风格 GIF -->
-  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/ocean.gif" alt="Ocean Snake" width="100%" />
+  <!-- 黑客帝国风格：纯黑背景 + 霓虹绿蛇 -->
+  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/github-snake-hacker-diamonds.svg" alt="Hacker Snake" width="100%" />
 </div>
 
 <br>
