@@ -2,13 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20page🎉!;coding%20and%20technology😊&font=Fira+Code&center=true&size=24&width=500&height=50&color=ffd700&vCenter=true">
 </div>
 
+<!-- 强行用 font 标签包裹大标题 -->
 <h1 align="center" style="font-family: 'Courier New', monospace; border-bottom: none;">
   <span style="color: #fbe5c3;">👋</span> 
-  <span style="color: #f4a261;">Hey! Nice To See You</span>
+  <font color="#f4a261">Hey! Nice To See You</font>
 </h1>
 
 <p align="center" style="font-size:1.2em; font-family: 'Courier New', monospace; color: #8b949e;">
-   <em>Welcome to my page! I’m <span style="color: #f4a261;">forminio</span>, from 🇨🇳, and I love exploring interesting things</em>
+   <em>Welcome to my page! I’m <font color="#f4a261"><strong>forminio</strong></font>, from 🇨🇳, and I love exploring interesting things</em>
 </p>
 
 <div align="center">
@@ -24,20 +25,23 @@
 <br>
 
 <h2 style="font-family: 'Courier New', monospace; border-bottom: 1px solid #30363d; padding-bottom: 5px;">
-  <span style="color: #f4a261;">💻 `root@forminio:~#`</span> <sup>🔗</sup>
+  <span style="color: #f4a261;">💻</span> <font color="#f4a261">`root@forminio:~#`</font> <sup>🔗</sup>
 </h2>
 
-- 🧠 `while(alive) { learnNewTech(); solveProblems(); }`
-- 💻 `const currentFocus = 'Distributed Systems & High Availability';`
-- 🔍 `try { backendDevelopment(); } catch(Exception e) { fixIt(); } finally { continuousLearning(); }`
-- 🔄 `git commit -m "feat: CI/CD pipeline automation & continuous deployment"`
-- 🌐 Personal Blog: [`console.log("Welcome to my digital playground! 😊✨")`](https://forminio.cn/)
-- 🔎 Profile Views: <img src="https://komarev.com/ghpvc/?username=forminio&color=f4a261&labelColor=0d1117" />
+<!-- 不用 Markdown 的减号，全改用 ul/li + font 标签强制上色 -->
+<ul style="font-family: 'Courier New', monospace; line-height: 1.8;">
+  <li><font color="#f4a261"><strong>🧠 <code>while(alive) { learnNewTech(); solveProblems(); }</code></strong></font></li>
+  <li><font color="#f4a261"><strong>💻 <code>const currentFocus = 'Distributed Systems & High Availability';</code></strong></font></li>
+  <li><font color="#f4a261"><strong>🔍 <code>try { backendDevelopment(); } catch(Exception e) { fixIt(); } finally { continuousLearning(); }</code></strong></font></li>
+  <li><font color="#f4a261"><strong>🔄 <code>git commit -m "feat: CI/CD pipeline automation & continuous deployment"</code></strong></font></li>
+  <li><font color="#f4a261"><strong>🌐 Personal Blog:</strong></font> <a href="https://forminio.cn/"><code>console.log("Welcome to my digital playground! 😊✨")</code></a></li>
+  <li><font color="#f4a261"><strong>🔎 Profile Views:</strong></font> <img src="https://komarev.com/ghpvc/?username=forminio&color=f4a261&labelColor=0d1117" valign="middle" /></li>
+</ul>
 
 <br>
 
 <h2 style="font-family: 'Courier New', monospace; border-bottom: 1px solid #30363d; padding-bottom: 5px;">
-  <span style="color: #f4a261;">🚀 My Tech Arsenal & Metrics</span>
+  <span style="color: #f4a261;">🚀</span> <font color="#f4a261">My Tech Arsenal & Metrics</font>
 </h2>
 
 <div align="center" style="width: 100%; max-width: 900px; margin: 0 auto; padding: 25px 15px; background-color: rgba(255, 255, 255, 0.02); border-radius: 16px; border: 1px solid rgba(244, 162, 97, 0.15);">
@@ -65,11 +69,11 @@
 <br>
 
 <h2 style="font-family: 'Courier New', monospace; border-bottom: 1px solid #30363d; padding-bottom: 5px;">
-  <span style="color: #f4a261;">🐍 The Commit-eating Snake</span>
+  <span style="color: #f4a261;">🐍</span> <font color="#f4a261">The Commit-eating Snake</font>
 </h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg?v=106" alt="Hacker Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg?v=107" alt="Hacker Snake" width="100%" />
 </div>
 
 <br>
