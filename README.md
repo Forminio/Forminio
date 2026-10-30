@@ -2,11 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20page🎉!;coding%20and%20technology😊&font=Fira+Code&center=true&size=24&width=500&height=50&color=ffd700&vCenter=true">
 </div>
 
-<h1 align="center" style="font-family: 'Courier New', monospace;">
+<h1 align="center" style="font-family: 'Courier New', monospace; border-bottom: none;">
   <span style="color: #fbe5c3;">👋</span> 
-  <span style="color: #f4a261;">Hey!</span> 
-  <span style="color: #e76f51;">Nice</span> 
-  <span style="color: #ffd700;">To See You</span>
+  <span style="color: #f4a261;">Hey! Nice To See You</span>
 </h1>
 
 <p align="center" style="font-size:1.2em; font-family: 'Courier New', monospace; color: #8b949e;">
@@ -25,7 +23,9 @@
 
 <br>
 
-## 💻 `root@forminio:~#` <sup>🔗</sup>
+<h2 style="font-family: 'Courier New', monospace; border-bottom: 1px solid #30363d; padding-bottom: 5px;">
+  <span style="color: #f4a261;">💻 `root@forminio:~#`</span> <sup>🔗</sup>
+</h2>
 
 - 🧠 `while(alive) { learnNewTech(); solveProblems(); }`
 - 💻 `const currentFocus = 'Distributed Systems & High Availability';`
@@ -36,7 +36,9 @@
 
 <br>
 
-## 🚀 My Tech Arsenal & Metrics
+<h2 style="font-family: 'Courier New', monospace; border-bottom: 1px solid #30363d; padding-bottom: 5px;">
+  <span style="color: #f4a261;">🚀 My Tech Arsenal & Metrics</span>
+</h2>
 
 <div align="center" style="width: 100%; max-width: 900px; margin: 0 auto; padding: 25px 15px; background-color: rgba(255, 255, 255, 0.02); border-radius: 16px; border: 1px solid rgba(244, 162, 97, 0.15);">
   
@@ -62,7 +64,9 @@
 <br>
 <br>
 
-## 🐍 The Commit-eating Snake
+<h2 style="font-family: 'Courier New', monospace; border-bottom: 1px solid #30363d; padding-bottom: 5px;">
+  <span style="color: #f4a261;">🐍 The Commit-eating Snake</span>
+</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg?v=106" alt="Hacker Snake" width="100%" />
