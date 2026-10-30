@@ -44,11 +44,9 @@
   <table style="border: none; width: 100%; table-layout: fixed; margin: 0 auto;">
     <tr>
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
-        <!-- 修正了这里：title_color 是绿色，text_color 和 icon_color 都是白色 (c9d1d9) -->
         <img src="https://github-readme-stats.shion.dev/api?username=forminio&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&icon_color=c9d1d9" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle" style="padding: 10px;">
-        <!-- 修正了这里：title_color 是绿色，text_color 是白色 (c9d1d9) -->
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=forminio&layout=compact&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&card_width=350" height="195" style="max-width: 100%; border-radius: 8px;" />
       </td>
     </tr>
@@ -69,7 +67,6 @@
 
 <div align="center">
   <div style="margin-top: 20px;">
-    <!-- 顺便把你截图里那个由于参数写错导致变黄的波浪也修成正常的渐变蓝色了 -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Code%20Never%20Ends&fontSize=24&fontAlignY=80" width="100%" />
   </div>
   <div style="background-color: #0d1117; border-radius: 6px; padding: 10px; width: 80%; margin: 20px auto; border: 1px solid #30363d;">
