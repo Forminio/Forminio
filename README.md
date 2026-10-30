@@ -60,7 +60,7 @@
 ## 🐍 The Commit-eating Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg?v=105" alt="Hacker Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Forminio/Forminio/output/hacker-snake.svg?v=106" alt="Hacker Snake" width="100%" />
 </div>
 
 <br>
@@ -74,6 +74,6 @@
     </p>
   </div>
   <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</div>
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  </div>
 </div>
